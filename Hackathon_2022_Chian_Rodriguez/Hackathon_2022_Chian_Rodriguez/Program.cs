@@ -10,7 +10,8 @@ namespace Hackathon_2022_Chian_Rodriguez
             Console.WriteLine("Hackathon 2022 | Alex Rodriguez, Ricardo Chian");
 
             //PROBLEMA 1
-
+            Console.WriteLine("\n\n");
+            Console.WriteLine("Problema 1 -------------------------------");
             Console.WriteLine("Ingrese una palabra: ");
             var palabraOriginal = Console.ReadLine();
 
@@ -28,10 +29,10 @@ namespace Hackathon_2022_Chian_Rodriguez
                 Console.WriteLine("La segunda cadena NO es una cadena desordenada de la primera");
             }
 
-            //PROBLEMA 2
 
+            //PROBLEMA 2
             Console.WriteLine("\n\n");
-            Console.WriteLine("Problema 1");
+            Console.WriteLine("Problema 2 -------------------------------");
             Console.WriteLine("Ingrese la longitud de las lineas");
             var longitudStr = Console.ReadLine();
 
